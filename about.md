@@ -1,4 +1,3 @@
-# About
-
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+# About this blog
+This blog is meant to capture my journey as I go through the fastai course
 
